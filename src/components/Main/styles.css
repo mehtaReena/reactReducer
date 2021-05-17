@@ -1,0 +1,22 @@
+.main-container{
+
+    max-height: 100vh;
+    display: flex;
+    flex-direction:column;
+
+
+
+
+}
+.main-container h1{
+    font-size: 3em;
+    font-weight: 400;
+
+}
+.flex-row{
+    display: flex;
+    width:100%;
+    justify-content: space-evenly;
+    flex-direction: row;
+    overflow: hidden;
+}
